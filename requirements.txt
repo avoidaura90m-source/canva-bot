@@ -1,0 +1,6 @@
+# Python packages required
+selenium
+webdriver-manager
+requests
+names
+fake-useragent
